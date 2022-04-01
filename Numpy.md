@@ -13,7 +13,7 @@
 11. [数组的切割](Numpy/11-数组的切割.ipynb)
 12. [数组的转置](Numpy/12-数组的转置.ipynb)
 13. [数组的拷贝](Numpy/13-Numpy数组的拷贝.ipynb)
-
+14. [文件操作](Numpy/14-Numpy数组的文件操作.ipynb)
 
 
 
