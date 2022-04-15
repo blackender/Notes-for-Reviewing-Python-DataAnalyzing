@@ -17,6 +17,7 @@
 15. [数组的空值处理](Numpy/15-Numpy空值处理.ipynb)
 16. [random模块](Numpy/16-Numpy的random模块.ipynb)
 17. [axis的操作](Numpy/17-Numpy的axis.ipynb)
+18. [通用函数](Numpy/18-Numpy通用函数.ipynb)
 
 
 
