@@ -19,6 +19,11 @@
 
 ### Lesson Three
 
+1. [对齐运算](Pandas/05-对齐运算.ipynb)
+2. [函数应用](Pandas/06-函数应用.ipynb)
+3. [层级索引](Pandas/07-层级索引.ipynb)
+4. [统计计算和描述](Pandas/08-统计计算和描述.ipynb)
 
+## Practices
 
-
+### Date Cleaning
