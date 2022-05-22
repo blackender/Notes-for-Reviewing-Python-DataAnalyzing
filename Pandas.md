@@ -13,7 +13,7 @@
 1. [index操作](Pandas/04-index操作.ipynb)
 
 ##### Homework
-1. [作业](Pandas/004-作业.ipynb)
+1. [作业](Pandas/04-作业.ipynb)
 
 ---
 
@@ -24,6 +24,13 @@
 3. [层级索引](Pandas/07-层级索引.ipynb)
 4. [统计计算和描述](Pandas/08-统计计算和描述.ipynb)
 
-## Practices
+## Practical sessions
 
-### Date Cleaning
+### Lesson Four - Date Cleaning I
+
+1. [数据加载与存储](Pandas/09-数据加载与存储.ipynb)
+2. [处理缺失数据](Pandas/10-处理缺失数据.ipynb)
+3. [移除重复数据](Pandas/11-移除重复数据.ipynb)
+
+#### Homework
+1. [作业](Pandas/09-11作业.ipynb)
