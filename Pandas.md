@@ -34,3 +34,16 @@
 
 #### Homework
 1. [作业](Pandas/09-11作业.ipynb)
+
+### Lesson Five - Date Cleaning II
+
+1. [数据转换](Pandas/12-数据转换.ipynb)
+2. [值替换](Pandas/13-值替换.ipynb)
+3. [重命名轴索引](Pandas/14-重命名轴索引.ipynb)
+4. [离散化和面元划分](Pandas/15-离散化和面元划分.ipynb)
+5. [异常值处理](Pandas/16-异常值处理.ipynb)
+6. [排列和随机采用](Pandas/17-排列和随机采用.ipynb)
+7. [字符串处理](Pandas/18-字符串处理.ipynb)
+
+#### Homework
+1. [作业](Pandas/12-18作业.ipynb)
