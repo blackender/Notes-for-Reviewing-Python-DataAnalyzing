@@ -26,7 +26,7 @@
 
 ## Practical sessions
 
-### Lesson Four - Date Cleaning I
+### Lesson Four - Data Cleaning I
 
 1. [数据加载与存储](Pandas/09-数据加载与存储.ipynb)
 2. [处理缺失数据](Pandas/10-处理缺失数据.ipynb)
@@ -35,7 +35,7 @@
 #### Homework
 1. [作业](Pandas/09-11作业.ipynb)
 
-### Lesson Five - Date Cleaning II
+### Lesson Five - Data Cleaning II
 
 1. [数据转换](Pandas/12-数据转换.ipynb)
 2. [值替换](Pandas/13-值替换.ipynb)
@@ -47,3 +47,8 @@
 
 #### Homework
 1. [作业](Pandas/12-18作业.ipynb)
+
+### Lesson Six - Data Cleaning
+1. [层次化索引](Pandas/19-层次化索引.ipynb)
+2. [数据连接（合并）](Pandas/20-数据连接.ipynb)
+3. [重塑和轴向旋转](Pandas/21-重塑和轴向旋转.ipynb)
