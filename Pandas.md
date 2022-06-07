@@ -44,6 +44,8 @@
 5. [异常值处理](Pandas/16-异常值处理.ipynb)
 6. [排列和随机采用](Pandas/17-排列和随机采用.ipynb)
 7. [字符串处理](Pandas/18-字符串处理.ipynb)
+	1. [正则表达式](Pandas/18-1-正则表达式.ipynb)
+	2. [Pandas字符串处理](Pandas/18-2-Pandas字符串处理.ipynb)
 
 #### Homework
 1. [作业](Pandas/12-18作业.ipynb)
