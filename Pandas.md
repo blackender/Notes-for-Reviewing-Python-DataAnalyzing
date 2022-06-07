@@ -50,7 +50,7 @@
 #### Homework
 1. [作业](Pandas/12-18作业.ipynb)
 
-### Lesson Six - Data Cleaning
+### Lesson Six - Data Structuring
 1. [层次化索引](Pandas/19-层次化索引.ipynb)
 2. [数据连接（合并）](Pandas/20-数据连接.ipynb)
 3. [重塑和轴向旋转](Pandas/21-重塑和轴向旋转.ipynb)
