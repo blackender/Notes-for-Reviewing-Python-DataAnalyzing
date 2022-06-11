@@ -6,6 +6,7 @@
 ## Matplotlib
 
 ### Lesson one
+1. [Matplotlib基础](Visualization/Matplotlib/02-Matplotlib基础.ipynb)
 
 ### Lesson two
 
