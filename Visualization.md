@@ -5,8 +5,10 @@
 
 ## Matplotlib
 
-### Lesson one
-1. [Matplotlib基础](Visualization/Matplotlib/02-Matplotlib基础.ipynb)
+### Lesson one: Line Chart
+1. [折线图入门](Visualization/Matplotlib/02-折线图入门.ipynb)
+2. [折线图样式设置](Visualization/Matplotlib/03-折线图样式设置.ipynb)
+3. [折线图文本设置](Visualization/Matplotlib/04-折线图文本设置.ipynb)
 
 ### Lesson two
 
