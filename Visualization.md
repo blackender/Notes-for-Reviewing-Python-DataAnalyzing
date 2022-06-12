@@ -9,6 +9,7 @@
 1. [折线图入门](Visualization/Matplotlib/02-折线图入门.ipynb)
 2. [折线图样式设置](Visualization/Matplotlib/03-折线图样式设置.ipynb)
 3. [折线图文本设置](Visualization/Matplotlib/04-折线图文本设置.ipynb)
+4. [折线图marker与注释](Visualization/Matplotlib/05-折线图marker与注释.ipynb)
 
 ### Lesson two
 
