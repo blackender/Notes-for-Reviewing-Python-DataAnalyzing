@@ -10,8 +10,13 @@
 2. [折线图样式设置](Visualization/Matplotlib/03-折线图样式设置.ipynb)
 3. [折线图文本设置](Visualization/Matplotlib/04-折线图文本设置.ipynb)
 4. [折线图marker与注释](Visualization/Matplotlib/05-折线图marker与注释.ipynb)
+5. [画框样式](Visualization/Matplotlib/06-画框样式.ipynb)
 
-### Lesson two
+#### 作业
+
+* [作业](Visualization/Matplotlib/07-作业.ipynb)
+
+### Lesson two: Bar Graph
 
 
 ### Lesson three
