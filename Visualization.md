@@ -17,6 +17,7 @@
 * [作业](Visualization/Matplotlib/07-作业.ipynb)
 
 ### Lesson two: Bar Graph
+1. [柱状图入门](Visualization/Matplotlib/08-柱状图入门.ipynb)
 
 
 ### Lesson three
