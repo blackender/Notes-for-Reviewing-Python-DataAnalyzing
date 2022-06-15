@@ -18,6 +18,9 @@
 
 ### Lesson two: Bar Graph
 1. [柱状图入门](Visualization/Matplotlib/08-柱状图入门.ipynb)
+2. [柱状图的横向绘制](Visualization/Matplotlib/09-柱状图的横向绘制.ipynb)
+3. [柱状图的分组绘制](Visualization/Matplotlib/10-柱状图的分组绘制.ipynb)
+
 
 
 ### Lesson three
