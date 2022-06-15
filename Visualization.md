@@ -13,17 +13,19 @@
 5. [画框样式](Visualization/Matplotlib/06-画框样式.ipynb)
 
 #### 作业
-
 * [作业](Visualization/Matplotlib/07-作业.ipynb)
 
 ### Lesson two: Bar Graph
 1. [柱状图入门](Visualization/Matplotlib/08-柱状图入门.ipynb)
 2. [柱状图的横向绘制](Visualization/Matplotlib/09-柱状图的横向绘制.ipynb)
 3. [柱状图的分组绘制](Visualization/Matplotlib/10-柱状图的分组绘制.ipynb)
+4. [柱状图的堆叠绘制](Visualization/Matplotlib/11-柱状图的堆叠绘制.ipynb)
 
+#### 作业
+* [作业](Visualization/Matplotlib/12-作业.ipynb)
 
-
-### Lesson three
+### Lesson three: Histogram
+<!--1. [直方图入门](Visualization/Matplotlib/)-->
 
 
 ### Lesson four
