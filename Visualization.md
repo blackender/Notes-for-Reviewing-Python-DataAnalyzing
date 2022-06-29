@@ -25,10 +25,13 @@
 * [作业](Visualization/Matplotlib/12-作业.ipynb)
 
 ### Lesson three: Histogram
-<!--1. [直方图入门](Visualization/Matplotlib/)-->
+* [直方图入门](Visualization/Matplotlib/13-直方图入门.ipynb)
+
+#### 作业
+* [作业](Visualization/Matplotlib/14-作业.ipynb)
 
 
-### Lesson four
+### Lesson four: Scatter Diagram
 
 
 
