@@ -32,7 +32,7 @@
 
 
 ### Lesson four: Scatter Diagram
-
+1. [散点图入门](Visualization/Matplotlib/15-散点图入门.ipynb)
 
 
 
