@@ -33,8 +33,12 @@
 
 ### Lesson four: Scatter Diagram
 1. [散点图入门](Visualization/Matplotlib/15-散点图入门.ipynb)
+2. [散点图的回归曲线](Visualization/Matplotlib/16-散点图的回归曲线.ipynb)
 
+#### 作业
+* [作业](Visualization/Matplotlib/17-作业.ipynb)
 
+### Lesson five: Pie Chart
 
 ## Seaborn
 
