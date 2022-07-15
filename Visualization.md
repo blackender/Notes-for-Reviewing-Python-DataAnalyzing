@@ -39,6 +39,11 @@
 * [作业](Visualization/Matplotlib/17-作业.ipynb)
 
 ### Lesson five: Pie Chart
+* [饼图入门](Visualization/Matplotlib/18-饼图入门.ipynb)
+
+#### 作业
+* [作业](Visualization/Matplotlib/19-作业.ipynb)
+
 
 ## Seaborn
 
