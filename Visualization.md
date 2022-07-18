@@ -44,6 +44,11 @@
 #### 作业
 * [作业](Visualization/Matplotlib/19-作业.ipynb)
 
+### Lesson six: Boxplot
+* [箱线图入门](Visualization/Matplotlib/20-箱线图入门.ipynb)
+
+#### 作业
+* [作业](Visualization/Matplotlib/21-作业.ipynb)
 
 ## Seaborn
 
