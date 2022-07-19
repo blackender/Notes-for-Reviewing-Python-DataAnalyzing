@@ -50,6 +50,12 @@
 #### 作业
 * [作业](Visualization/Matplotlib/21-作业.ipynb)
 
+### Lesson seve: Radar Graph 
+* [雷达图入门](Visualization/Matplotlib/22-雷达图入门.ipynb)
+
+#### 作业
+* [作业](Visualization/Matplotlib/23-作业.ipynb)
+
 ## Seaborn
 
 
