@@ -64,6 +64,8 @@
 * [作业](Visualization/Matplotlib/23-作业.ipynb)
 
 ### Lesson eight: Matplotlib Advanced
+1. [Matplotlib绘图结构解析](Visualization/Matplotlib/24-Matplotlib绘图结构解析.ipynb)
+
 
 ## Seaborn
 
