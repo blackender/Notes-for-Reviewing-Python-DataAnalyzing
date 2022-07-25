@@ -65,6 +65,8 @@
 
 ### Lesson eight: Matplotlib Advanced
 1. [Matplotlib绘图结构解析](Visualization/Matplotlib/24-Matplotlib绘图结构解析.ipynb)
+2. [Axes对象的简单操作](Visualization/Matplotlib/25-Axes对象简单操作.ipynb)
+
 
 
 ## Seaborn
