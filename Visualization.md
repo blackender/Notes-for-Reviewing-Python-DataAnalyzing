@@ -67,6 +67,8 @@
 1. [Matplotlib绘图结构解析](Visualization/Matplotlib/24-Matplotlib绘图结构解析.ipynb)
 2. [Axes对象的简单操作](Visualization/Matplotlib/25-Axes对象简单操作.ipynb)
 3. [Axis对象的简单操作](Visualization/Matplotlib/26-Axis对象的操作.ipynb)
+4. [多子图布局](Visualization/Matplotlib/27-多子图布局.ipynb)
+
 
 
 
