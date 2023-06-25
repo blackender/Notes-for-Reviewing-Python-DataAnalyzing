@@ -100,6 +100,11 @@
 
 * [分类散点图](Visualization/Seaborn/03-分类散点图.ipynb)
 
+#### 2. Distribution Diagram
+
+* [分类分布图](Visualization/Seaborn/04-分类分布图.ipynb)
+
+04-分类分布图
 
 ## Pyecharts
 
