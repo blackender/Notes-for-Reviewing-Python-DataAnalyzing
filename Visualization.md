@@ -84,15 +84,22 @@
 
 ## Seaborn
 
-### Lesson Relational Graph
+### Lesson nine: Relational Graph
 
 #### 1. Scatter Diagram
 
-* [Seaborn散点图](Visualization/Seaborn/01-关系散点图.ipynb)
+* [关系散点图](Visualization/Seaborn/01-关系散点图.ipynb)
 
 #### 2. Line Chart
 
-* [Seaborn折线图](Visualization/Seaborn/02-关系折线图.ipynb)
+* [关系折线图](Visualization/Seaborn/02-关系折线图.ipynb)
+
+### Lesson ten: Category Graph
+
+#### 1. Scatter Diagram
+
+* [分类散点图](Visualization/Seaborn/03-分类散点图.ipynb)
+
 
 ## Pyecharts
 
