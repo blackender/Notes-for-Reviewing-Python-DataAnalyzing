@@ -84,7 +84,15 @@
 
 ## Seaborn
 
-### Lesson five
+### Lesson Relational Graph
+
+#### 1. Scatter Diagram
+
+* [Seaborn散点图](Visualization/Seaborn/01-散点图.ipynb)
+
+#### 2. Line Chart
+
+* [Seaborn折线图](Visualization/Seaborn/02-折线图.ipynb)
 
 ## Pyecharts
 
