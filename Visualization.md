@@ -104,7 +104,9 @@
 
 * [分类分布图](Visualization/Seaborn/04-分类分布图.ipynb)
 
-04-分类分布图
+#### 3. Statistic Diagram
+
+* [分类统计图](Visualization/Seaborn/05-分类统计图.ipynb)
 
 ## Pyecharts
 
