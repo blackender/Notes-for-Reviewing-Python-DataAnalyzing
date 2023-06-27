@@ -114,6 +114,11 @@
 
 * [单变量分布图](Visualization/Seaborn/06-分布图（单变量）.ipynb)
 
+#### 2. Bivariate Distribution Diagram
+
+* [双变量分布图](Visualization/Seaborn/07-分布图（双变量）.ipynb)
+
+
 
 ## Pyecharts
 
