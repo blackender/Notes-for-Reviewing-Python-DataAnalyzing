@@ -94,7 +94,7 @@
 
 * [关系折线图](Visualization/Seaborn/02-关系折线图.ipynb)
 
-### Lesson ten: Category Graph
+### Lesson ten: Category Diagram
 
 #### 1. Scatter Diagram
 
@@ -107,6 +107,13 @@
 #### 3. Statistic Diagram
 
 * [分类统计图](Visualization/Seaborn/05-分类统计图.ipynb)
+
+### Lesson eleven: Distribution Diagram
+
+#### 1. Univariate Distribution Diagram
+
+* [单变量分布图](Visualization/Seaborn/06-分布图（单变量）.ipynb)
+
 
 ## Pyecharts
 
