@@ -118,6 +118,9 @@
 
 * [双变量分布图](Visualization/Seaborn/07-分布图（双变量）.ipynb)
 
+#### 3. Multivariate Distribution Diagram
+
+* [多变量分布图](Visualization/Seaborn/08-分布图（多变量分组）.ipynb)
 
 
 ## Pyecharts
