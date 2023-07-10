@@ -122,6 +122,10 @@
 
 * [多变量分布图](Visualization/Seaborn/08-分布图（多变量分组）.ipynb)
 
+#### 4. Linear Regression Diagram
+
+* [线性回归分布图](Visualization/Seaborn/09-分布图（线性回归）.ipynb)
+
 
 ## Pyecharts
 
