@@ -122,9 +122,18 @@
 
 * [多变量分布图](Visualization/Seaborn/08-分布图（多变量分组）.ipynb)
 
-#### 4. Linear Regression Diagram
+### Lesson twelve: Regression Diagram
 
-* [线性回归分布图](Visualization/Seaborn/09-分布图（线性回归）.ipynb)
+#### Linear Regression Diagram
+
+* [线性回归图](Visualization/Seaborn/09-线性回归图.ipynb)
+
+### Lesson thirteen: FacetGrid
+
+#### 1. FacetGrid and Axes
+
+* [FacetGrid与Axes](Visualization/Seaborn/10-FacetGrid与Axes.ipynb)
+
 
 
 ## Pyecharts
