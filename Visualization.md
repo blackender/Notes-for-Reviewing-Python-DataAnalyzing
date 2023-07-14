@@ -134,6 +134,14 @@
 
 * [FacetGrid与Axes](Visualization/Seaborn/10-FacetGrid与Axes.ipynb)
 
+#### 2. FacetGrid对象的基本用法
+
+* [FacetGrid对象的基本用法](Visualization/Seaborn/11-FacetGrid对象的基本用法.ipynb)
+
+#### 3. FacetGrid对象的绘图细节
+
+* [FacetGrid对象的绘图细节](Visualization/Seaborn/12-FacetGrid对象的绘图细节.ipynb)
+
 
 
 ## Pyecharts
