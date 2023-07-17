@@ -142,6 +142,12 @@
 
 * [FacetGrid对象的绘图细节](Visualization/Seaborn/12-FacetGrid对象的绘图细节.ipynb)
 
+### Lesson fourteen: Details
+
+#### 1. Styles
+
+* [样式风格设置](Visualization/Seaborn/13-样式风格.ipynb)
+
 
 
 ## Pyecharts
