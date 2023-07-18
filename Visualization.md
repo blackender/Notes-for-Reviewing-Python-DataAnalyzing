@@ -148,7 +148,13 @@
 
 * [样式风格设置](Visualization/Seaborn/13-样式风格.ipynb)
 
+#### 2. Palettes
 
+* [调色盘设置](Visualization/Seaborn/14-调色盘.ipynb)
+
+### 作业
+
+* [作业](Visualization/Seaborn/15-作业.ipynb)
 
 ## Pyecharts
 
