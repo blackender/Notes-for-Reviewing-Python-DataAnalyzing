@@ -158,4 +158,10 @@
 
 ## Pyecharts
 
+### Lesson fifteen: Quick Start
+
+* [Pyecharts快速入门](Visualization/Pyecharts/01-Pyecharts快速入门.ipynb)
+
+
+
 ### Lesson six
