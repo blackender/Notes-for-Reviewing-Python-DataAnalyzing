@@ -162,6 +162,17 @@
 
 * [Pyecharts快速入门](Visualization/Pyecharts/01-Pyecharts快速入门.ipynb)
 
+### Lesson sixteen: Configuration Settings
 
+* [Pyecharts配置项](Visualization/Pyecharts/02-Pyecharts配置项.ipynb)
+
+### Lesson seventeen: Graphs
+
+* [Pyecharts绘制条形图](Visualization/Pyecharts/03-条行图绘制.ipynb)
+* [Pyecharts绘制箱线图](Visualization/Pyecharts/04-箱线图绘制.ipynb)
+
+### Lesson eightteen: Map
+
+* [Pyecharts绘制地图](Visualization/Pyecharts/05-地图绘制.ipynb)
 
 ### Lesson six
